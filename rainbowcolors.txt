@@ -3,4 +3,5 @@ Orange
 Yellow
 Green
 Blue
-violet
+Indigo
+Violet
